@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "2_xid": "^1.0.0",
-    "9_xid": "^1.0.0"
+    "opwf_xid": "^1.0.0",
+    "pcbc_xid": "^1.0.0"
   }
 }
