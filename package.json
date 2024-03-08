@@ -15,6 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "2_xid": "^1.0.0",
-    "7_xid": "^1.0.0"
+    "9_xid": "^1.0.0"
   }
 }
