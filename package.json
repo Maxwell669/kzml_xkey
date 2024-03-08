@@ -1,0 +1,20 @@
+{
+  "name": "kzml_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxwell669/kzml_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "2_xid": "^1.0.0",
+    "7_xid": "^1.0.0"
+  }
+}
